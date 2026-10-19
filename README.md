@@ -14,3 +14,4 @@ A collection of links, tools, and notes.
 - [OSINT Framework](https://osintframework.com/) — catalog of tools
 - [Bellingcat Toolkit](https://bellingcat.gitbook.io/toolkit) — guide to tools
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) — big list on GitHub
+- [EXIF](https://exif.tools/) — extract metadata from files
