@@ -8,10 +8,17 @@ A collection of links, tools, and notes.
 - [Shodan](https://shodan.io) — search engine for internet-connected devices
 - [Censys](https://censys.io) — search for hosts and certificates
 - [Yandex](https://yandex.ru) — strong image and region-based search
+- 
 
 ## Useful Links
 
 - [OSINT Framework](https://osintframework.com/) — catalog of tools
+- [OSINT catalog](https://osint-catalog.org/) — catalog of tools
 - [Bellingcat Toolkit](https://bellingcat.gitbook.io/toolkit) — guide to tools
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) — big list on GitHub
 - [EXIF](https://exif.tools/) — extract metadata from files
+- [IntelTechniques](https://inteltechniques.com/tools/Search) — catalog of tools
+
+## Data Leaks
+- [DeHashed](https://dehashed.com/) — search engine for data leaks
+- [Intelligence X](https://intelx.io/) — search engine for data leaks
