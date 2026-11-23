@@ -8,7 +8,7 @@ A collection of links, tools, and notes.
 - [Shodan](https://shodan.io) — search engine for internet-connected devices
 - [Censys](https://censys.io) — search for hosts and certificates
 - [Yandex](https://yandex.ru) — strong image and region-based search
-- 
+   
 
 ## Useful Links
 
@@ -19,6 +19,12 @@ A collection of links, tools, and notes.
 - [EXIF](https://exif.tools/) — extract metadata from files
 - [IntelTechniques](https://inteltechniques.com/tools/Search) — catalog of tools
 
+
 ## Data Leaks
 - [DeHashed](https://dehashed.com/) — search engine for data leaks
 - [Intelligence X](https://intelx.io/) — search engine for data leaks
+
+
+## Exploit DBs
+
+- [Exploit DB](https://www.exploit-db.com/)
