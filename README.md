@@ -27,4 +27,5 @@ A collection of links, tools, and notes.
 
 ## Exploit DBs
 
-- [Exploit DB](https://www.exploit-db.com/)
+- [Exploit DB](https://www.exploit-db.com/) — most famous exploit db
+- [DBs List](https://github.com/haxdoggy/vulnerability-databases) — list of vulnerability databases
