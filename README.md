@@ -29,3 +29,20 @@ A collection of links, tools, and notes.
 
 - [Exploit DB](https://www.exploit-db.com/) — most famous exploit db
 - [DBs List](https://github.com/haxdoggy/vulnerability-databases) — list of vulnerability databases
+
+
+## Sock Puppet
+
+### Fake Names
+- [Fake Name Generator](https://www.fakenamegenerator.com/)
+
+### Fake Photos
+- [AI Generated Person's Photo](https://thispersondoesnotexist.com/)
+- [AI Generated Person's Photo](https://this-person-does-not-exist.com/en)
+- [AI Generated Person's Photo](https://thispersonnotexist.org/)
+
+### Mails
+- [Fast Mail](https://www.fastmail.com/)
+- [Temp Mail](https://temp-mail.org/)
+- [Temp Mail](https://tempfastmail.com/)
+- [Temp Mail](https://temp-mail.io/en)
