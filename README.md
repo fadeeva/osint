@@ -46,3 +46,7 @@ A collection of links, tools, and notes.
 - [Temp Mail](https://temp-mail.org/)
 - [Temp Mail](https://tempfastmail.com/)
 - [Temp Mail](https://temp-mail.io/en)
+
+## Check Footprints
+- [Holehe](https://holehe.org/) - toolkit for check emails, phones, usernames etc
+- [Maigret](https://github.com/soxoj/maigret/) - same
